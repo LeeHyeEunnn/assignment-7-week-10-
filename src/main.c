@@ -1,8 +1,9 @@
 #include <stdio.h>
+#include <funcs.h>
 
 int main() {
     print_hello();
-    printf_world();
+    print_world();
 
     return 0;
 }
